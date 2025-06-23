@@ -48,7 +48,7 @@ export default function Projects() {
             <div class="relative h-auto m-2.5 overflow-hidden text-white rounded-md">
         
               <Image
-      src="./logoJA.svg"
+      src="./nexus.svg"
       width={500}
       height={500}
       alt=""
@@ -56,7 +56,7 @@ export default function Projects() {
             </div>
             <div class="p-4">
               <h6 class="mb-2 text-gray-100 text-xl ">
-                Jovem&Ativo
+                Nexus 3D
               </h6>
               <p class="text-slate-400 leading-normal font-light">
                 ...
