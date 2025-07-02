@@ -1,40 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🌟 Portfólio | Desenvolvido com React + Next.js 🌟
 
-## Getting Started
+## 📖 Sobre
 
-First, run the development server:
+Este é o meu portfólio pessoal, desenvolvido com **React** e **Next.js** para criar uma aplicação web moderna, rápida e responsiva. Usei o **Tailwind CSS** para garantir uma estilização limpa e eficiente.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O objetivo do meu portfólio é apresentar meus projetos, habilidades, experiências e informações de contato de forma clara e atraente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologias Utilizadas
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- **React** – Biblioteca JavaScript para construção de interfaces.
+- **Next.js** – Framework React para aplicações server-side rendered (SSR) e geração estática (SSG).
+- **Tailwind CSS** – Framework CSS utilitário para estilização rápida e responsiva.
+- **Vercel** – Plataforma que usei para hospedar o site.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Funcionalidades
 
-## Learn More
+- Página inicial com minha apresentação pessoal e links para redes sociais.
+- Seção de projetos com descrição e links para os repositórios.
+- Layout responsivo, que funciona bem em dispositivos móveis e desktop.
+- Navegação simples e fluida com roteamento feito pelo Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+## 🖥️ Como rodar localmente
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/esthertozzo/portfolio.git
 
-## Deploy on Vercel
+2. Entre na pasta do projeto:
+   ```bash
+   cd portfolio
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Instale as dependências:
+   ```bash
+   npm install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+4. Rode a aplicação em modo de desenvolvimento:
+   ```bash
+   npm run dev
+
+5. Abra http://localhost:3000 no navegador para ver o resultado.
+
+---
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+Feito com 🤍 por Esther Tozzo 
